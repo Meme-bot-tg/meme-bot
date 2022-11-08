@@ -1,6 +1,7 @@
 # Table of contents
 
-* [Постановка задачи](README.md)
+* [Навигация](README.md)
+* [Постановка задачи](<README (1).md>)
   * [Описание предметной области](readme/opisanie-predmetnoi-oblasti.md)
   * [Функциональные и нефункциональные требования](readme/funkcionalnye-i-nefunkcionalnye-trebovaniya.md)
 * [Руководство пользователя](rukovodstvo-polzovatelya.md)
