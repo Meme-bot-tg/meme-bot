@@ -1,4 +1,7 @@
 # Table of contents
 
-* [Страничка 1](README.md)
-* [Страница 2](stranica-2.md)
+* [Навигация](README.md)
+* [Весь код](ves-kod.md)
+* [Описание библиотек](opisanie-bibliotek.md)
+* [Описание переменных](opisanie-peremennykh.md)
+* [Описание функций](opisanie-funkcii.md)
