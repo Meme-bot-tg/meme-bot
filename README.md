@@ -1,7 +1,3 @@
----
-description: тут что-то написано
----
-
 # Навигация
 
 {% content-ref url="ves-kod.md" %}
