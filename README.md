@@ -15,3 +15,7 @@
 {% content-ref url="opisanie-funkcii.md" %}
 [opisanie-funkcii.md](opisanie-funkcii.md)
 {% endcontent-ref %}
+
+{% content-ref url="https://app.gitbook.com/o/NobVLMgkMAW2xHHwyTiE/s/H6XF0pBmbcBX2aquJFvP/" %}
+[Закрытая страничка](https://app.gitbook.com/o/NobVLMgkMAW2xHHwyTiE/s/H6XF0pBmbcBX2aquJFvP/)
+{% endcontent-ref %}
